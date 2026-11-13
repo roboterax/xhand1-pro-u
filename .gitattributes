@@ -1,0 +1,7 @@
+* text=auto
+*.STL -text
+*.stl -text
+*.webp -text
+*.zip -text
+*.urdf -text
+*.csv -text
